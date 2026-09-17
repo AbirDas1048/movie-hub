@@ -132,7 +132,7 @@ npm -v
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AbirDas1048/movie-hub
+git clone https://github.com/AbirDas1048/movie-hub.git
 ```
 
 ### 2. Navigate to the project
